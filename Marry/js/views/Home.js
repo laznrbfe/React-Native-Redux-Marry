@@ -7,7 +7,7 @@ import {
   Text,
   View
 } from 'react-native';
-
+import Img from '../common/Img';
 export default class Home extends Component {
   render() {
     return (
